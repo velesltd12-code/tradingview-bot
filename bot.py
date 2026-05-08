@@ -1,7 +1,7 @@
 import requests
 from flask import Flask, request, jsonify
 
-TOKEN = "8423163106:AAE9g1L_8Gx11MzYb40BUBD4soP-p1nXado"
+TOKEN = "8423163106:AAE9glL_8Gx11MzYb40BUBD4soP-p1nXado"
 CHAT_ID = "412895025"
 
 app = Flask(__name__)
